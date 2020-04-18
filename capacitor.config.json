@@ -1,0 +1,23 @@
+{
+  "appId": "com.rapinow.pwa",
+  "appName": "rapinow",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {
+    "preferences": {
+      "ScrollEnabled": "true",
+      "android-minSdkVersion": "19",
+      "android-targetSdkVersion": "28",
+      "BackupWebStorage": "none",
+      "SplashMaintainAspectRatio": "true",
+      "SplashShowOnlyFirstTime": "false",
+      "SplashScreen": "screen",
+      "ShowSplashScreenSpinner": "false",
+      "FadeSplashScreen": "false",
+      "AutoHideSplashScreen": "false",
+      "orientation": "portrait",
+      "AndroidPersistentFileLocation": "Compatibility"
+    }
+  }
+}

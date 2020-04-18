@@ -1,0 +1,145 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hefzi\\Documents\\apps\\proyectos\\Handyman_AppCode\\handyman_provider\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3dd4325f6f76a0a54e27c94fb264f204\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,5593",
+                        "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
+                        "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,5670"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\d3d7196f124e4082e904e0a81dfc3ed2\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "203",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3200",
+                        "endColumns": "203",
+                        "endOffsets": "3399"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-tagmanager-16.0.8.aar\\d9f5b192ba18ef7d35e9fdd7b9dbcb7e\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "208,302,418",
+                        "endColumns": "93,115,94",
+                        "endOffsets": "301,417,512"
+                    },
+                    "to": {
+                        "startLines": "49,50,51",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5776,5874,5994",
+                        "endColumns": "97,119,98",
+                        "endOffsets": "5869,5989,6088"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-18.0.0.aar\\85e9bf7e661e7d1e7cb8d3afe4dd89f4\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "103",
+                        "endOffsets": "308"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "5007",
+                        "endColumns": "107",
+                        "endOffsets": "5110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\0a23a75c9fefca15e1d73626d13ab79e\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,352,548,674,784,1021,1150,1297,1441,1680,1790,1990,2119,2340,2542,2639,2728",
+                        "endColumns": "106,195,125,109,236,128,146,143,238,109,199,128,220,201,96,88,104",
+                        "endOffsets": "351,547,673,783,1020,1149,1296,1440,1679,1789,1989,2118,2339,2541,2638,2727,2832"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1980,2091,2287,2417,2531,2768,2901,3052,3404,3643,3757,3957,4090,4311,4517,4618,4711",
+                        "endColumns": "110,195,129,113,236,132,150,147,238,113,199,132,220,205,100,92,108",
+                        "endOffsets": "2086,2282,2412,2526,2763,2896,3047,3195,3638,3752,3952,4085,4306,4512,4613,4706,4815"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\Documents\\apps\\proyectos\\Handyman_AppCode\\handyman_provider\\platforms\\android\\app\\src\\main\\res\\values-de\\multiimagechooser_strings_de.xml",
+                    "from": {
+                        "startLines": "4,3,2,7,6,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "223,116,55,566,469,359",
+                        "endColumns": "135,106,60,102,96,109",
+                        "endOffsets": "354,218,111,664,561,464"
+                    },
+                    "to": {
+                        "startLines": "39,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4820,5115,5222,5283,5386,5483",
+                        "endColumns": "135,106,60,102,96,109",
+                        "endOffsets": "4951,5217,5278,5381,5478,5588"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.2.aar\\fa222cf4cfe41bf24791e2c1c325d235\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,183",
+                        "endColumns": "64,62,50",
+                        "endOffsets": "115,178,229"
+                    },
+                    "to": {
+                        "startLines": "19,20,40",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1852,1917,4956",
+                        "endColumns": "64,62,50",
+                        "endOffsets": "1912,1975,5002"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hefzi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e16892684ee1b98580362e0d858dceb2\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5675",
+                        "endColumns": "100",
+                        "endOffsets": "5771"
+                    }
+                }
+            ]
+        }
+    ]
+}
